@@ -3,3 +3,5 @@ Belajar menggunakan GitHub
 1. Apa itu GitHub
 2. Siapa pembuat GitHub
 3. Untuk apa GitHub
+4. Kenapa harus menggunakan GitHub
+5. Kelebihan GitHub apa?
