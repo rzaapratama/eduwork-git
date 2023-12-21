@@ -1,0 +1,5 @@
+Belajar fundamental Git bersama eduwork
+
+1. Belajar apa itu git
+2. Mengenal Git dan GitHub
+3. Belajar menggunakan GitHub 
